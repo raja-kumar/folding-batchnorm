@@ -1,1 +1,0 @@
-guide for pytorch
