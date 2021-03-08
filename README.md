@@ -9,5 +9,5 @@ Here i have provided the code to reproduce the weight distribution analysis give
 python weight_distribution_analysis.py
 
 ## Batch Norm Folding
-To understand what is batch norm folding please see following medium link
+To understand what is batch norm folding please see following post
 https://towardsdatascience.com/speed-up-inference-with-batch-normalization-folding-8a45a83a89d8
